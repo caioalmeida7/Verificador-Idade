@@ -1,2 +1,2 @@
 # Verificador-Idade
- Verifica idade!
+ Criado no intuito para saber a sua idade. Apenas prática.
